@@ -16,6 +16,10 @@ i
 
 "><h1><IFRAME SRC="javascript:alert('xss');"></IFRAME>">123</h1>
 <iframe src=javascript&colon;alert&lpar;document&period;cookie&rpar;>
+https://google.com/
+https://fb.com
+http://youtube.com/
+http://instagram.com
 http://66.102.7.147/">XSS
 
 
