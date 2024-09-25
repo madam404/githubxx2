@@ -18,7 +18,7 @@ i
 
 <h1><IFRAME SRC="javascript:alert('xss');"></IFRAME>">1723</h1>
 
-<iframe src=javascript&colon;alert&lpar;document&period;baseURI&rpar;>
+<iframe src=javascript&colon;alert&lpar;document&period;name&rpar;>
 "><h1><IFRAME SRC="javascript:alert('xss');"></IFRAME>">1723</h1>
 dsgsdfgg
 <iframe src="https:///google.com/;"></iframe><marquee><h1>Xsy by xss</h1></marquee>
