@@ -23,7 +23,7 @@
 
 <iframe SRC=x onerror=alert(1)/></iframe><marquee><h1>nil2</h1></marquee>
 
-<iframe SRC=http://google.com/></iframe><marquee><h1>nil2</h1></marquee>
+<iframe SRC=http://goog+le.com/></iframe><marquee><h1>nil2</h1></marquee>
 
 
 
