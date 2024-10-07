@@ -13,7 +13,7 @@ i
 
 
 
-<iframe src="javascript:alert(document.domain);"></iframe><marquee><h1>Xsy by xsy</h1></marquee>
+<iframe src="javascript:alert(document.domain);"></iframe>
 
 
 <h1><IFRAME SRC="javascript:alert(document.domain);"></IFRAME>">1723</h1>
