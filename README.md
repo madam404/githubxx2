@@ -10,7 +10,7 @@
 
 
 
-
+<span>
 <iframe src="http://google.com/"></iframe><marquee><h1>nil2</h1></marquee>
 <h1><IFRAME SRC="javascript:alert(document.domain);"></IFRAME>">1723</h1>
 <iframe src="javascript:alert(document.domain);"></iframe><marquee><h1>nilydv</h1></marquee>
@@ -25,8 +25,7 @@
 
 <iframe SRC=http://goog+le.com/></iframe><marquee><h1>nil2</h1></marquee>
 <script>alert(1)</script>
-
-
+</span>
 
 
 
